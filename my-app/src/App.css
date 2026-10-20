@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  background: #0d5fb1;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.card {
+  background: #9b0606;
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 6px rgba(0, 14, 10, 0.08);
+}
+
+h1 {
+  text-align: center;
+  color: #023f35;
+}
